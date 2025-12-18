@@ -23,17 +23,19 @@
       "has_content": true
     },
     {
-      "id": 2,
-      "file": "sermons/sermon-002.json",
-      "title": "الخطبة الثانية",
-      "subtitle": "في الصفات الإلهية والتوحيد",
-      "description": "يتحدث فيها عن توحيد الله وصفاته",
-      "category": "العقيدة",
-      "page_start": 61,
-      "page_end": 70,
-      "total_footnotes": 12,
-      "has_content": true
-    },
+  "id": 2,
+  "file": "sermons/sermon-002.json",
+  "title": "الخطبة الثانية",
+  "subtitle": "بعد انصرافه من صفين",
+  "description": "من خطبة له عليه السلام بعد انصرافه من صفين",
+  "category": "الوعظ والإرشاد",
+  "page_start": 61,
+  "page_end": 63,
+  "total_footnotes": 15,
+  "total_sections": 6,
+  "has_content": true,
+  "keywords": ["صفين", "الشهادة", "آل النبي", "الفتن"]
+},
     {
       "id": 3,
       "file": "sermons/sermon-003.json",
@@ -58,4 +60,5 @@
     "الوعظ",
     "الدعاء"
   ]
+
 }
