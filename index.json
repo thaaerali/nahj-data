@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "نهج البلاغة",
+    "author": "الإمام علي بن أبي طالب (ع)",
+    "editor": "الشيخ محمد عبده",
+    "total_sermons": 241,
+    "total_letters": 79,
+    "total_wisdoms": 480,
+    "compiled_date": "2024-01-01",
+    "version": "1.0.0"
+  },
+  "sermons_index": [
+    {
+      "id": 1,
+      "file": "sermons/sermon-001.json",
+      "title": "الخطبة الأولى",
+      "subtitle": "في ابتداء خلق السماء والأرض، وخلق آدم، وذكر الحج",
+      "description": "يذكر فيها ابتداء خلق السماء والأرض، وخلق آدم. وفيها ذكر الحج",
+      "category": "العقيدة",
+      "page_start": 45,
+      "page_end": 60,
+      "total_footnotes": 18,
+      "has_content": true
+    },
+    {
+      "id": 2,
+      "file": "sermons/sermon-002.json",
+      "title": "الخطبة الثانية",
+      "subtitle": "في الصفات الإلهية والتوحيد",
+      "description": "يتحدث فيها عن توحيد الله وصفاته",
+      "category": "العقيدة",
+      "page_start": 61,
+      "page_end": 70,
+      "total_footnotes": 12,
+      "has_content": true
+    },
+    {
+      "id": 3,
+      "file": "sermons/sermon-003.json",
+      "title": "الخطبة الثالثة (الشقشقية)",
+      "subtitle": "في ذكر الخلافة والولاية",
+      "description": "المشهورة بالشقشقية في أمر الخلافة",
+      "category": "السياسة",
+      "page_start": 71,
+      "page_end": 85,
+      "total_footnotes": 25,
+      "has_content": false
+    }
+    // ... حتى 241
+  ],
+  "categories": [
+    "العقيدة",
+    "السياسة",
+    "الأخلاق",
+    "الاجتماع",
+    "الإدارة",
+    "الحرب",
+    "الوعظ",
+    "الدعاء"
+  ]
+}
