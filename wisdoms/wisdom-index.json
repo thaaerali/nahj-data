@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "title": "فهرس حكم نهج البلاغة",
+    "author": "الإمام علي بن أبي طالب (ع)",
+    "editor": "الشيخ محمد عبده",
+    "total_wisdoms": 474,
+    "compiled_date": "2024-01-01",
+    "categories": ["الحكم", "المواعظ", "الأمثال", "الكلمات القصار"]
+  },
+  "wisdoms": [
+    {
+      "id": 1,
+      "file": "wisdoms/wisdom-001.json",
+      "title": "الحكمة الأولى",
+      "description": "حكمة عن [موضوع الحكمة الأولى]",
+      "category": ["التقوى", "الإيمان"],
+      "has_content": false,
+      "keywords": ["الكلمة المفتاحية 1", "الكلمة المفتاحية 2"]
+    },
+    {
+      "id": 2,
+      "file": "wisdoms/wisdom-002.json",
+      "title": "الحكمة الثانية",
+      "description": "حكمة عن [موضوع الحكمة الثانية]",
+      "category": ["الصبر", "الرضا"],
+      "has_content": false,
+      "keywords": ["الكلمة المفتاحية 1", "الكلمة المفتاحية 2"]
+    },
+    {
+      "id": 3,
+      "file": "wisdoms/wisdom-003.json",
+      "title": "الحكمة الثالثة",
+      "description": "حكمة عن [موضوع الحكمة الثالثة]",
+      "category": ["العلم", "الحكمة"],
+      "has_content": false,
+      "keywords": ["الكلمة المفتاحية 1", "الكلمة المفتاحية 2"]
+    },
+    // ... وهكذا حتى 474
+    {
+      "id": 474,
+      "file": "wisdoms/wisdom-474.json",
+      "title": "الحكمة 474",
+      "description": "حكمة عن [موضوع الحكمة الأخيرة]",
+      "category": ["الخلق", "الأدب"],
+      "has_content": false,
+      "keywords": ["الكلمة المفتاحية 1", "الكلمة المفتاحية 2"]
+    }
+  ]
+}
